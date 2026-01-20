@@ -13,4 +13,5 @@ model ContactSubmission {
   phone       String?
   message     String
   createdAt   DateTime  @default(now())
+
 }
