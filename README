@@ -1,0 +1,32 @@
+# Shravani Kardekar – Portfolio
+
+Personal portfolio website showcasing my work in **Full-Stack Development, Data Engineering, and AI/ML**.
+
+Built with a focus on clean UI, glassmorphism design, and modern frontend practices.
+
+---
+
+## ✨ Tech Stack
+
+- React
+- Tailwind CSS
+- React Router
+- Vite
+- JavaScript
+
+---
+
+## 🎨 Features
+
+- Glassmorphic UI with video hero background
+- Responsive layout
+- Seamless navbar & footer
+- Modular React components
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
